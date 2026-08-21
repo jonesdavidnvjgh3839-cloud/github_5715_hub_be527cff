@@ -6,8 +6,6 @@ Welcome to the Solution Knowledge Hub. This repository catalogues the company's 
 
 - [Smart Billing Suite](solutions/smart-billing.md) — Fintech
 - [Invoice OCR Engine](solutions/invoice-ocr.md) — Document AI
-- [Contract Analytics](solutions/contract-analytics.md) — Legal Tech
-- [Lead Scoring](solutions/lead-scoring.md) — Sales
 - [Inventory Optimizer](solutions/inventory-optimizer.md) — Supply Chain
 - [Expense Tracker](solutions/expense-tracker.md) — Fintech
 - [Fraud Detector](solutions/fraud-detector.md) — Risk
