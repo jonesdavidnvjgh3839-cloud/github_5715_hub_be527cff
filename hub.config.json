@@ -16,34 +16,22 @@
       "status": "active"
     },
     {
-      "id": "contract-analytics",
-      "title": "Contract Analytics",
-      "category": "Legal Tech",
-      "status": "deprecated"
-    },
-    {
-      "id": "lead-scoring",
-      "title": "Lead Scoring",
-      "category": "Sales",
-      "status": "deprecated"
-    },
-    {
       "id": "inventory-optimizer",
       "title": "Inventory Optimizer",
       "category": "Supply Chain",
-      "status": "pending"
+      "status": "active"
     },
     {
       "id": "expense-tracker",
       "title": "Expense Tracker",
       "category": "Fintech",
-      "status": "pending"
+      "status": "active"
     },
     {
       "id": "fraud-detector",
       "title": "Fraud Detector",
       "category": "Risk",
-      "status": "pending"
+      "status": "active"
     }
   ]
 }
