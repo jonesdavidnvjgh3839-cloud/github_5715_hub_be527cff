@@ -1,0 +1,49 @@
+{
+  "hub_name": "Solution Knowledge Hub",
+  "quarter": "2026 Q3",
+  "owner_team": "Content Operations",
+  "solutions": [
+    {
+      "id": "smart-billing",
+      "title": "Smart Billing Suite",
+      "category": "Fintech",
+      "status": "active"
+    },
+    {
+      "id": "invoice-ocr",
+      "title": "Invoice OCR Engine",
+      "category": "Document AI",
+      "status": "active"
+    },
+    {
+      "id": "contract-analytics",
+      "title": "Contract Analytics",
+      "category": "Legal Tech",
+      "status": "deprecated"
+    },
+    {
+      "id": "lead-scoring",
+      "title": "Lead Scoring",
+      "category": "Sales",
+      "status": "deprecated"
+    },
+    {
+      "id": "inventory-optimizer",
+      "title": "Inventory Optimizer",
+      "category": "Supply Chain",
+      "status": "pending"
+    },
+    {
+      "id": "expense-tracker",
+      "title": "Expense Tracker",
+      "category": "Fintech",
+      "status": "pending"
+    },
+    {
+      "id": "fraud-detector",
+      "title": "Fraud Detector",
+      "category": "Risk",
+      "status": "pending"
+    }
+  ]
+}
